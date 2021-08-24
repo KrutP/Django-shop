@@ -1,0 +1,2 @@
+Working web site with current django project
+https://pskrut.pythonanywhere.com/
